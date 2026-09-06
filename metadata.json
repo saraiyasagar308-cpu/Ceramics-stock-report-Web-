@@ -1,0 +1,6 @@
+{
+  "name": "Ceramics Stock",
+  "description": "Studio inventory tracking and stock report generator for ceramic ware, glazes, raw materials, and firing stages",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
